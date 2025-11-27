@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES2020",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    
+    "strict": true,
+    "sourceMap": true,
+    "outDir": "dist",
+
+    "verbatimModuleSyntax": false,
+    "isolatedModules": false,
+    "jsx": "react",
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true
+  },
+  "include": ["src"]
+}
